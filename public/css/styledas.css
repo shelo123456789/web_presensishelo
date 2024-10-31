@@ -1,0 +1,15 @@
+.card-body {
+        display: flex;
+        justify-content: center; /* Center horizontally */
+    }
+
+.chart-area {
+        width: 100%;
+        overflow-x: auto; /* Allow horizontal scroll if needed */
+    }
+
+.table {
+        width: 100%;
+        max-width: 100%; /* Ensure table does not overflow container */
+    }
+
